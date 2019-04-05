@@ -1,0 +1,10 @@
+{
+  // 预设环境信息
+  "presets": [
+    "env"
+  ],
+  "plugins": [
+    // 转化 vue 里的 jsx 代码
+    "transform-vue-jsx"
+  ]
+}

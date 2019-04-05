@@ -1,0 +1,14 @@
+# 在这个项目里 editorconfig 读到这个文件就可以停止了
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+# tab 长度
+indent_size = 2
+indent_style = space
+# 自动加上代码结束后的空行
+insert_final_newline = false
+# 自动去掉语句末尾空格
+trim_trailing_whitespace = false
+
