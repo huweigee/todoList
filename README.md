@@ -3,3 +3,6 @@
 + 配置当前的代码环境
 + webpack entry配置/output配置(打包配置)
 + 配置代码文件的解析loader
+
+# 配置router
++
