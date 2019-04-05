@@ -5,4 +5,7 @@
 + 配置代码文件的解析loader
 
 # 配置router
-+
++ 配置默认路由({path: '/', redirect: '/app'})
++ 路由的命名
++ 路由的子路由配置
++ 路由的props
