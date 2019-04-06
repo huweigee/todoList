@@ -11,6 +11,7 @@
 + 路由的命名
 + 路由的子路由配置
 + 路由的props
++ 路由的钩子执行顺序
 
 # vuex
 + state/mutations/getters/actions
